@@ -1,6 +1,6 @@
 # DSA
-[] Python
-[] C++
-[] Java
-[] JavaScript
-[] Go
+[ ] Python
+[ ] C++
+[ ] Java
+[ ] JavaScript
+[ ] Go
